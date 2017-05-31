@@ -1,1 +1,3 @@
-# temp_umid_location1
+# Medidor de temperatura e umidade local
+
+Sensor usado: DTH11
